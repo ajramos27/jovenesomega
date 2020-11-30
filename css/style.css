@@ -8915,13 +8915,13 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #127897;
-    border: 2px solid #127897;
+    background: #5E4DC8;
+    border: 2px solid #5E4DC8;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 2px solid #127897;
-      background: transparent;
-      color: #ce0f3d; }
+      border: 2px solid #7B6CD8;
+      background: #7B6CD8;
+      color: #fff; }
     .btn.btn-primary.btn-outline-primary {
       border: 2px solid #127897;
       background: transparent;
